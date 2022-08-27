@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 245, 226);
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+section{
+    justify-content: center;
+    display: flex;
+}
+p{
+    text-align: center;
+}
